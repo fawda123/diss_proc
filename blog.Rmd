@@ -1,0 +1,38 @@
+---
+title: "diss2_blog"
+author: "Marcus W Beck"
+date: "Sunday, July 13, 2014"
+output: html_document
+---
+
+About a year ago I wrote a post describing <a href='http://beckmw.wordpress.com/2013/04/15/how-long-is-the-average-dissertation/'>average length of dissertations</a> at the University of Minnesota.  I've been meaning to expand that post by adding data from Masters theses to get an idea of how the two compare, not just for obvious reasons but also by major.  This post provides some graphics and links to R code for evaluating dissertation (doctorate) and thesis (Masters) data from an online database at the University of Minnesota.  In addition to describing data from Masters theses, I've collected current data on dissertations to provide an update on my previous post.  This blog is essentially a graphical comparison of dissertation versus masters thesis length.  I've avoided presenting the R code for brevity, but I invite interested readers to have a look at my <a href='https://github.com/fawda123/diss_proc'>Github repository</a> where all source code and data are stored.  Also, please, please, please note that I've since tried to explain that dissertation length is a pretty pointless metric of quality (also noted <a href='http://sociologyatwork.org/learning-to-write-a-thesis-an-applied-sociology-perspective/'>here</a>), so interpret the data only in the context that are potentially descriptive of the nature of each major.
+
+when all done
+
+thesis year range 2009-2014, dissertation year range 2006 - 2014
+thesis total 1109, dissertation total 3205
+range thesis 1, 647, range diss 21, 3335
+
+<figure><a href="http://fawda123.github.io/diss_proc/diss_plo.pdf" target="_blank"><img style="margin:0;padding:0;" src="https://raw.githubusercontent.com/fawda123/diss_proc/master/diss_counts.jpg"></a>
+<figcaption><small>Fig: text here.</small></figcaption></figure>
+<br></br>
+
+<figure><a href="http://beckmw.files.wordpress.com/2014/07/thes_counts.pdf"><img style="margin:0;padding:0;" src="http://beckmw.files.wordpress.com/2014/07/thes_counts.jpg"></a>
+<figcaption><small>Fig: text here.</small></figcaption></figure>
+<br></br>
+
+<figure><a href="http://beckmw.files.wordpress.com/2014/07/diss_plo.pdf"><img style="margin:0;padding:0;" src="http://beckmw.files.wordpress.com/2014/07/diss_plo.jpg"></a>
+<figcaption><small>Fig: text here.</small></figcaption></figure>
+<br></br>
+
+<figure><a href="http://beckmw.files.wordpress.com/2014/07/thes_plo.pdf"><img style="margin:0;padding:0;" src="http://beckmw.files.wordpress.com/2014/07/thes_plo.jpg"></a>
+<figcaption><small>Fig: text here.</small></figcaption></figure>
+<br></br>
+
+<figure><a href="http://beckmw.files.wordpress.com/2014/07/all_hist.pdf"><img style="margin:0;padding:0;" src="http://beckmw.files.wordpress.com/2014/07/all_hist.jpg"></a>
+<figcaption><small>Fig: text here.</small></figcaption></figure>
+<br></br>
+
+<figure><a href="http://beckmw.files.wordpress.com/2014/07/all_plo.pdf"><img style="margin:0;padding:0;" src="http://beckmw.files.wordpress.com/2014/07/all_plo.jpg"></a>
+<figcaption><small>Fig: text here.</small></figcaption></figure>
+<br></br>
