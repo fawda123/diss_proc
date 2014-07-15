@@ -73,7 +73,6 @@ pdf('diss_counts.pdf',width = 12,height = 6, family = 'serif')
 diss_plo <- ggplot(to_plo, aes(x = Major, y = num_diss, fill = num_diss)) + 
   geom_bar(lwd = 0.3, stat = 'identity') + 
   theme_bw() +
-  scale_fill_gradientn(colours = brewer.pal(7, 'Blues')) +
   scale_fill_gradientn(colours = brewer.pal(11, 'Spectral')) +
   ylab('Number of dissertations in record') +
   theme(legend.position = "none", axis.title.x = element_blank(), 
