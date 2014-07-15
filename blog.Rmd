@@ -17,22 +17,22 @@ range thesis 1, 647, range diss 21, 3335
 <figcaption><small>Fig: text here.</small></figcaption></figure>
 <br></br>
 
-<figure><a href="http://beckmw.files.wordpress.com/2014/07/thes_counts.pdf"><img style="margin:0;padding:0;" src="http://beckmw.files.wordpress.com/2014/07/thes_counts.jpg"></a>
+<figure><a href="http://fawda123.github.io/diss_proc/thes_counts.pdf"><img style="margin:0;padding:0;" src="https://raw.githubusercontent.com/fawda123/diss_proc/master/thes_counts.jpg"></a>
 <figcaption><small>Fig: text here.</small></figcaption></figure>
 <br></br>
 
-<figure><a href="http://beckmw.files.wordpress.com/2014/07/diss_plo.pdf"><img style="margin:0;padding:0;" src="http://beckmw.files.wordpress.com/2014/07/diss_plo.jpg"></a>
+<figure><a href="http://fawda123.github.io/diss_proc/diss_plo.pdf"><img style="margin:0;padding:0;" src="https://raw.githubusercontent.com/fawda123/diss_proc/master/diss_plo.jpg"></a>
 <figcaption><small>Fig: text here.</small></figcaption></figure>
 <br></br>
 
-<figure><a href="http://beckmw.files.wordpress.com/2014/07/thes_plo.pdf"><img style="margin:0;padding:0;" src="http://beckmw.files.wordpress.com/2014/07/thes_plo.jpg"></a>
+<figure><a href="http://fawda123.github.io/diss_proc/thes_plo.pdf"><img style="margin:0;padding:0;" src="https://raw.githubusercontent.com/fawda123/diss_proc/master/thes_plo.jpg"></a>
 <figcaption><small>Fig: text here.</small></figcaption></figure>
 <br></br>
 
-<figure><a href="http://beckmw.files.wordpress.com/2014/07/all_hist.pdf"><img style="margin:0;padding:0;" src="http://beckmw.files.wordpress.com/2014/07/all_hist.jpg"></a>
+<figure><a href="http://fawda123.github.io/diss_proc/all_hist.pdf"><img style="margin:0;padding:0;" src="https://raw.githubusercontent.com/fawda123/diss_proc/master/all_hist.jpg"></a>
 <figcaption><small>Fig: text here.</small></figcaption></figure>
 <br></br>
 
-<figure><a href="http://beckmw.files.wordpress.com/2014/07/all_plo.pdf"><img style="margin:0;padding:0;" src="http://beckmw.files.wordpress.com/2014/07/all_plo.jpg"></a>
+<figure><a href="http://fawda123.github.io/diss_proc/all_plo.pdf"><img style="margin:0;padding:0;" src="https://raw.githubusercontent.com/fawda123/diss_proc/master/all_plo.jpg"></a>
 <figcaption><small>Fig: text here.</small></figcaption></figure>
 <br></br>

@@ -42,7 +42,7 @@ diss_plo <- ggplot(to_plo, aes(x = Major, y = Pages, fill = median)) +
   ylim(0,500) + 
   coord_flip() +
   theme_bw() +
-  scale_fill_gradientn(colours = brewer.pal(9, 'Oranges')) +
+  scale_fill_gradientn(colours = brewer.pal(11, 'Spectral')) +
   theme(legend.position = "none", axis.title.y = element_blank(), 
         axis.text.y = element_text(size = 8))
 print(diss_plo)
